@@ -1,0 +1,122 @@
+[16-Aug-2015 13:08:02 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hrclinic/public_html/articles.php on line 23
+[23-Aug-2015 22:47:37 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hrclinic/public_html/koneksi.php on line 3
+[23-Aug-2015 22:47:37 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/hrclinic/public_html/koneksi.php:3) in /home/hrclinic/public_html/index.php on line 5
+[23-Aug-2015 22:47:37 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/hrclinic/public_html/koneksi.php:3) in /home/hrclinic/public_html/index.php on line 5
+[23-Aug-2015 22:47:37 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hrclinic/public_html/index.php on line 75
+[23-Aug-2015 22:47:37 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hrclinic/public_html/index.php on line 76
+[23-Aug-2015 22:47:37 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hrclinic/public_html/koneksi_post.php on line 7
+[24-Aug-2015 18:36:46 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/hrclinic/public_html/post.php on line 34
+[24-Aug-2015 18:36:46 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/hrclinic/public_html/post.php on line 72
+[12-Oct-2015 20:45:59 Asia/Jakarta] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hrclinic/public_html/koneksi.php on line 3
+[12-Oct-2015 20:45:59 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/hrclinic/public_html/koneksi.php:3) in /home/hrclinic/public_html/index.php on line 5
+[12-Oct-2015 20:45:59 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/hrclinic/public_html/koneksi.php:3) in /home/hrclinic/public_html/index.php on line 5
+[12-Oct-2015 20:45:59 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hrclinic/public_html/index.php on line 75
+[12-Oct-2015 20:45:59 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hrclinic/public_html/index.php on line 76
+[12-Oct-2015 20:45:59 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hrclinic/public_html/index.php on line 115
+[12-Oct-2015 20:45:59 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hrclinic/public_html/index.php on line 116
+[12-Oct-2015 20:45:59 Asia/Jakarta] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hrclinic/public_html/koneksi_post.php on line 7
+[12-Oct-2015 20:46:00 Asia/Jakarta] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hrclinic/public_html/koneksi.php on line 3
+[12-Oct-2015 20:46:00 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/hrclinic/public_html/koneksi.php:3) in /home/hrclinic/public_html/index.php on line 5
+[12-Oct-2015 20:46:00 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/hrclinic/public_html/koneksi.php:3) in /home/hrclinic/public_html/index.php on line 5
+[12-Oct-2015 20:46:00 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hrclinic/public_html/index.php on line 75
+[12-Oct-2015 20:46:00 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hrclinic/public_html/index.php on line 76
+[12-Oct-2015 20:46:00 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hrclinic/public_html/index.php on line 115
+[12-Oct-2015 20:46:00 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hrclinic/public_html/index.php on line 116
+[12-Oct-2015 20:46:00 Asia/Jakarta] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hrclinic/public_html/koneksi_post.php on line 7
+[12-Oct-2015 20:46:01 Asia/Jakarta] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hrclinic/public_html/koneksi.php on line 3
+[12-Oct-2015 20:46:01 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/hrclinic/public_html/koneksi.php:3) in /home/hrclinic/public_html/index.php on line 5
+[12-Oct-2015 20:46:01 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/hrclinic/public_html/koneksi.php:3) in /home/hrclinic/public_html/index.php on line 5
+[12-Oct-2015 20:46:01 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hrclinic/public_html/index.php on line 75
+[12-Oct-2015 20:46:01 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hrclinic/public_html/index.php on line 76
+[12-Oct-2015 20:46:01 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hrclinic/public_html/index.php on line 115
+[12-Oct-2015 20:46:01 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hrclinic/public_html/index.php on line 116
+[12-Oct-2015 20:46:01 Asia/Jakarta] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/hrclinic/public_html/koneksi_post.php on line 7
+[15-Feb-2016 10:33:16 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hrclinic/public_html/koneksi.php on line 3
+[15-Feb-2016 10:33:16 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/hrclinic/public_html/koneksi.php:3) in /home/hrclinic/public_html/index.php on line 5
+[15-Feb-2016 10:33:16 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/hrclinic/public_html/koneksi.php:3) in /home/hrclinic/public_html/index.php on line 5
+[15-Feb-2016 10:33:16 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hrclinic/public_html/index.php on line 75
+[15-Feb-2016 10:33:16 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hrclinic/public_html/index.php on line 76
+[15-Feb-2016 10:33:16 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hrclinic/public_html/index.php on line 115
+[15-Feb-2016 10:33:16 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hrclinic/public_html/index.php on line 116
+[15-Feb-2016 10:33:16 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hrclinic/public_html/koneksi_post.php on line 7
+[27-Feb-2016 00:49:24 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hrclinic/public_html/koneksi.php on line 3
+[27-Feb-2016 00:49:24 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/hrclinic/public_html/koneksi.php:3) in /home/hrclinic/public_html/post.php on line 3
+[27-Feb-2016 00:49:24 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/hrclinic/public_html/koneksi.php:3) in /home/hrclinic/public_html/post.php on line 3
+[27-Feb-2016 00:49:24 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hrclinic/public_html/post.php on line 33
+[27-Feb-2016 00:49:24 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hrclinic/public_html/post.php on line 34
+[27-Feb-2016 00:49:24 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hrclinic/public_html/post.php on line 71
+[27-Feb-2016 00:49:24 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hrclinic/public_html/post.php on line 72
+[27-Feb-2016 00:49:24 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hrclinic/public_html/layout/sidebar.php on line 109
+[27-Feb-2016 00:49:24 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hrclinic/public_html/layout/sidebar.php on line 111
+[27-Feb-2016 00:49:24 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hrclinic/public_html/layout/sidebar.php on line 174
+[27-Feb-2016 00:49:24 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hrclinic/public_html/layout/sidebar.php on line 175
+[27-Feb-2016 00:49:24 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hrclinic/public_html/layout/sidebar.php on line 183
+[27-Feb-2016 00:49:24 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hrclinic/public_html/layout/sidebar.php on line 184
+[27-Feb-2016 00:49:24 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hrclinic/public_html/layout/sidebar.php on line 198
+[27-Feb-2016 00:49:24 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hrclinic/public_html/layout/sidebar.php on line 199
+[27-Feb-2016 06:06:36 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hrclinic/public_html/koneksi.php on line 3
+[27-Feb-2016 06:06:36 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/hrclinic/public_html/koneksi.php:3) in /home/hrclinic/public_html/info_beasiswa.php on line 3
+[27-Feb-2016 06:06:36 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hrclinic/public_html/koneksi_post.php on line 7
+[27-Feb-2016 06:50:15 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hrclinic/public_html/koneksi.php on line 3
+[27-Feb-2016 06:50:15 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/hrclinic/public_html/koneksi.php:3) in /home/hrclinic/public_html/index.php on line 5
+[27-Feb-2016 06:50:15 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hrclinic/public_html/index.php on line 75
+[27-Feb-2016 06:50:15 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hrclinic/public_html/index.php on line 76
+[27-Feb-2016 06:50:15 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hrclinic/public_html/index.php on line 115
+[27-Feb-2016 06:50:15 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hrclinic/public_html/index.php on line 116
+[27-Feb-2016 06:50:15 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hrclinic/public_html/koneksi_post.php on line 7
+[27-Feb-2016 06:50:19 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hrclinic/public_html/koneksi.php on line 3
+[27-Feb-2016 06:50:19 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/hrclinic/public_html/koneksi.php:3) in /home/hrclinic/public_html/index.php on line 5
+[27-Feb-2016 06:50:19 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hrclinic/public_html/index.php on line 75
+[27-Feb-2016 06:50:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hrclinic/public_html/index.php on line 76
+[27-Feb-2016 06:50:19 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hrclinic/public_html/index.php on line 115
+[27-Feb-2016 06:50:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hrclinic/public_html/index.php on line 116
+[27-Feb-2016 06:50:19 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hrclinic/public_html/koneksi_post.php on line 7
+[27-Feb-2016 06:50:22 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hrclinic/public_html/koneksi.php on line 3
+[27-Feb-2016 06:50:22 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/hrclinic/public_html/koneksi.php:3) in /home/hrclinic/public_html/index.php on line 5
+[27-Feb-2016 06:50:22 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hrclinic/public_html/index.php on line 75
+[27-Feb-2016 06:50:22 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hrclinic/public_html/index.php on line 76
+[27-Feb-2016 06:50:22 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hrclinic/public_html/index.php on line 115
+[27-Feb-2016 06:50:22 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hrclinic/public_html/index.php on line 116
+[27-Feb-2016 06:50:22 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hrclinic/public_html/koneksi_post.php on line 7
+[27-Feb-2016 06:50:31 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hrclinic/public_html/koneksi.php on line 3
+[27-Feb-2016 06:50:31 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/hrclinic/public_html/koneksi.php:3) in /home/hrclinic/public_html/index.php on line 5
+[27-Feb-2016 06:50:31 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hrclinic/public_html/index.php on line 75
+[27-Feb-2016 06:50:31 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hrclinic/public_html/index.php on line 76
+[27-Feb-2016 06:50:31 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hrclinic/public_html/index.php on line 115
+[27-Feb-2016 06:50:31 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hrclinic/public_html/index.php on line 116
+[27-Feb-2016 06:50:31 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hrclinic/public_html/koneksi_post.php on line 7
+[27-Feb-2016 06:50:32 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hrclinic/public_html/koneksi.php on line 3
+[27-Feb-2016 06:50:32 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/hrclinic/public_html/koneksi.php:3) in /home/hrclinic/public_html/index.php on line 5
+[27-Feb-2016 06:50:32 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hrclinic/public_html/index.php on line 75
+[27-Feb-2016 06:50:32 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hrclinic/public_html/index.php on line 76
+[27-Feb-2016 06:50:32 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hrclinic/public_html/index.php on line 115
+[27-Feb-2016 06:50:32 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hrclinic/public_html/index.php on line 116
+[27-Feb-2016 06:50:32 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hrclinic/public_html/koneksi_post.php on line 7
+[27-Feb-2016 06:50:42 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hrclinic/public_html/koneksi.php on line 3
+[27-Feb-2016 06:50:42 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/hrclinic/public_html/koneksi.php:3) in /home/hrclinic/public_html/index.php on line 5
+[27-Feb-2016 06:50:42 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hrclinic/public_html/index.php on line 75
+[27-Feb-2016 06:50:42 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hrclinic/public_html/index.php on line 76
+[27-Feb-2016 06:50:42 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hrclinic/public_html/index.php on line 115
+[27-Feb-2016 06:50:42 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hrclinic/public_html/index.php on line 116
+[27-Feb-2016 06:50:42 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hrclinic/public_html/koneksi_post.php on line 7
+[27-Feb-2016 07:41:55 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hrclinic/public_html/koneksi.php on line 3
+[27-Feb-2016 07:41:55 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/hrclinic/public_html/koneksi.php:3) in /home/hrclinic/public_html/index.php on line 5
+[27-Feb-2016 07:41:55 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/hrclinic/public_html/koneksi.php:3) in /home/hrclinic/public_html/index.php on line 5
+[27-Feb-2016 07:41:55 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hrclinic/public_html/index.php on line 75
+[27-Feb-2016 07:41:55 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hrclinic/public_html/index.php on line 76
+[27-Feb-2016 07:41:55 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hrclinic/public_html/index.php on line 115
+[27-Feb-2016 07:41:55 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hrclinic/public_html/index.php on line 116
+[27-Feb-2016 07:41:55 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hrclinic/public_html/koneksi_post.php on line 7
+[27-Feb-2016 18:09:17 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/hrclinic/public_html/koneksi.php on line 3
+[27-Feb-2016 18:09:17 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/hrclinic/public_html/koneksi.php:3) in /home/hrclinic/public_html/publis_kami_organization.php on line 3
+[27-Feb-2016 18:09:17 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/hrclinic/public_html/koneksi.php:3) in /home/hrclinic/public_html/publis_kami_organization.php on line 3
+[27-Feb-2016 18:09:17 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/hrclinic/public_html/koneksi_post.php on line 7
+[31-Mar-2016 14:44:23 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/hrclinic/public_html/post.php on line 34
+[31-Mar-2016 14:44:23 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/hrclinic/public_html/post.php on line 72
+[17-Apr-2016 09:34:44 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/hrclinic/public_html/index.php on line 297
+[17-Apr-2016 09:38:23 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'fmod' (T_STRING), expecting '(' in /home/hrclinic/public_html/index.php on line 289
+[17-Apr-2016 09:39:34 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'fmod' (T_STRING), expecting '(' in /home/hrclinic/public_html/index.php on line 289
+[29-Apr-2016 20:33:04 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/hrclinic/public_html/post.php on line 34
+[29-Apr-2016 20:33:04 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/hrclinic/public_html/post.php on line 72
+[09-May-2016 20:19:54 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/hrclinic/public_html/post.php on line 34
+[09-May-2016 20:19:54 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/hrclinic/public_html/post.php on line 72

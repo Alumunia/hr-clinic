@@ -1,0 +1,107 @@
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:hover, .navbar-inverse .navbar-nav>.active>a
+{
+background-color:#2E3092;
+}
+
+.navbar-inverse {
+
+  border-color: #2E3092;
+}
+.navbar-inverse .navbar-nav>li>a.active{
+
+color:#F9FF55;
+}
+.navbar-inverse .navbar-nav>li>a:hover{
+
+color:#F9FF70;
+}
+.navbar-nav>li>.active{
+color:#F9FF70;
+}
+.warna{
+
+background-color:#F9FF70;
+
+
+}
+
+.grey{
+background-color:#F9FF70;
+}
+
+.actives{
+color:#F9FF70;
+
+
+}
+
+.lebar {
+width:100%;
+
+}
+
+
+.navbar-inverse .navbar-nav>.active>a:hover{
+font-size:90px;
+
+}
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:hover, .navbar-inverse .navbar-nav>.active>a{
+
+font-size:15px;
+
+}
+
+.navbar-collapse{
+
+padding-left:0px
+
+}
+
+.navbar-inverse .navbar-nav>li>a{
+color:#FFF;
+  font-size: 15px;
+}
+
+.padnav
+{
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+
+.border
+ {
+  border-right-style: solid;
+  border-color: white;
+  border-right-width: 2px;
+}
+.navbar{
+
+border-radius:0px;
+}
+
+.pad3{
+
+padding-top: 3px;
+
+
+}
+.footlogin{
+border: 1px solid #ddd;background-color: #E6E7E9;
+
+}
+.btnlog{
+
+border-color: #D9CDCD;    border-width: 2px;background-color: #00AEEF;  width: 80px; border-radius: 7px;
+
+}
+
+.contact{
+
+font-size:19px;color:#f58220;
+
+
+}
+
+
